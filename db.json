@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "id": "admin",
+      "pass": "admin",
+      "fullName": "administrador",
+      "image": ""
+    },
+    {
+      "id": "user",
+      "pass": "user",
+      "fullName": "usuario",
+      "image": ""
+    },
+    {
+      "id": "franpulpi",
+      "pass": "prueba1",
+      "fullName": "francisco",
+      "image": ""
+    }
+]
